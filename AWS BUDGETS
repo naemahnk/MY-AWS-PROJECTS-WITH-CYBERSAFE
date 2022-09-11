@@ -1,1 +1,6 @@
+AWS Budgets allow you to set a budget so that you can control your cost expenditure and not exceed your allocated budget threshold within a particular period as determined by your organization. 
 
+STEPS TO CREATING AN AWS BUDGET
+a. Log into the AWS Management Console and search for Cost Explorer
+b.One the left side of the screen, click on Budgets
+c.
